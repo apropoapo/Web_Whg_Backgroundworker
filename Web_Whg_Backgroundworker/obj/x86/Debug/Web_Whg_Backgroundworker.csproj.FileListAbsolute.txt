@@ -1,0 +1,6 @@
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\bin\Debug\Web_Whg_Backgroundworker.exe.config
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\bin\Debug\Web_Whg_Backgroundworker.exe
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\bin\Debug\Web_Whg_Backgroundworker.pdb
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\obj\x86\Debug\Web_Whg_Backgroundworker.exe
+C:\Users\Hallo\Documents\GitHub\Web_Whg_Backgroundworker\Web_Whg_Backgroundworker\obj\x86\Debug\Web_Whg_Backgroundworker.pdb
