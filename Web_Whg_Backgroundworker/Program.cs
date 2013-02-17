@@ -93,6 +93,17 @@ namespace Web_Whg_Backgroundworker
                         }
 
                     }
+                    string cmdText3 = "UPDATE Web_Whg_table SET Header='Crawler' WHERE ID=1;";
+                    MySqlCommand cmd3 = new MySqlCommand(cmdText3, con);
+                    try
+                    {
+                        cmd3.ExecuteNonQuery();
+                        currentIDs.Add(ID);
+                    }
+                    catch (MySqlException)
+                    {
+                        Console.WriteLine("SQL-Exception");
+                    }
 
                     
 
